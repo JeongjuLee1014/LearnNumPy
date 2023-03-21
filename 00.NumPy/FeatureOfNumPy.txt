@@ -1,0 +1,10 @@
+Feature of NumPy
+
+1. Numerical Python
+2. Package for high performance science calculating 
+3. Support N-dimensional array object
+4. A multidimensinoal container that can be used for general purpose data processing
+5. Sophisticated broadcasting capabilities
+6. Similar to Python's list data type, but faster and memory effcient
+7. Fast and convenient processinf of data arrays without loop statements
+8. Forms the core of an ecosystem for data science tool
